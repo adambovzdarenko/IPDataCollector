@@ -12,9 +12,9 @@ This Python script collects detailed information about an IP address using Brows
 
 ## Optionally saves:
 
-JSON file with all collected data.
+- JSON file with all collected data.
 
-HTML map showing IP location using Folium.
+- HTML map showing IP location using Folium.
 
 ## Requirements
 
